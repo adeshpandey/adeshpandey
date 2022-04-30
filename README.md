@@ -27,10 +27,10 @@ class Person:
 ```
 
 - 🔭 I’m currently working on SIP/WebRTC
-- 🌱 I’m currently Kubernetes
-- 👯 I’m looking to collaborate on cloud comm
-- 🤔 I’m looking for help with Signal Processing 
-- 💬 Ask me about Architecture/Cloud communication
+- 🌱 I’m currently learning Kubernetes
+- 👯 I’m looking to collaborate on cloud communication/contact center/webrtc/opensips/kamailio/asterisk
+- 🤔 I’m looking for help with Signal Processing for the audio packets
+- 💬 Ask me about Architecture/Cloud communication/Voice communication platform
 - 📫 How to reach me: <a href="https://linkedin.com/in/adeshpandey">LinkedIN</a> <a href="skype://live:adeshpandey">Skype</a>
 
 
