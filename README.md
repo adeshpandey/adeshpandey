@@ -20,7 +20,7 @@ class Person:
 
     @attribute
     def funFact(self):
-        return "I prefer written communication over oral communication"  
+        return "I don't like cats."  
     me = Person()
     me.sayHi()
 
