@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Visits Badge](https://badges.pufler.dev/visits/adeshpandey/adeshpandey)](https://badges.pufler.dev/visits/adeshpandey/adeshpandey)
 
 ```
 
