@@ -1,35 +1,12 @@
 ### Hi there 👋
 
-```
+It's me Adesh Pandey a fresh engineer with experience of over decade building for scale and easy to extend.
 
-class Person:
-    def __init__(self):
-        self.pronounce = "He/Him"
-        self.name = "Adesh Pandey"
-        self.current_workplace = "Unifonic Inc"
-
-    def getSkills(self):
-        return ["Python", "Java", "React", "React-native", "Javascript","PHP", "Quasar", "Serverless", "High-available system design", "Event driven", "Asterisk", "Kamailio"]
-    def wannaCollaborate(self, topic):
-        return topic in ["System Design", "Mobile Apps", "WebRTC","Cloud communication", "Scalability", "Distributed system"]
-    def collaborate(self):
-        return "Lets meet over skype/linkedin"
-    def sayHi(self):
-        return 'Hi, from the other side.'
-
-    @attribute
-    def funFact(self):
-        return "I don't like cats."  
-    me = Person()
-    me.sayHi()
-
-```
-
-- 🔭 I’m currently working on SIP/WebRTC
-- 🌱 I’m currently learning Kubernetes
-- 👯 I’m looking to collaborate on cloud communication/contact center/webrtc/opensips/kamailio/asterisk
-- 🤔 I’m looking for help with Signal Processing for the audio packets
-- 💬 Ask me about Architecture/Cloud communication/Voice communication platform
+- 🔭 I'm building robust network applications along with some amazing web and mobile applications.
+- 🌱 I always influenced my colleagues and juniors, Trained and mentored them but currently I'm Learning to be a impactful leader.
+- 👯 I’m ready to collaborate on any kind of web/mobile application or even anything in cloud communications like voice/sms/whatsapp.
+- 🤔 I looking for some good research papers on natural language processing.
+- 💬 Ask me about System Design/Architecture/Cloud communication/Voice communication platform
 - 📫 How to reach me: <a href="https://linkedin.com/in/adeshpandey">LinkedIN</a> 
 - 📫 Skype <live:adeshpandey>
 
